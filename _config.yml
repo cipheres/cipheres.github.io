@@ -6,7 +6,7 @@ logo: 'assets/images/logo50x50.ico.jpg'
 favicon: 'assets/images/logo50x50.ico.jpg'
 baseurl: ""
 google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+disqus: 'texoviva'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
