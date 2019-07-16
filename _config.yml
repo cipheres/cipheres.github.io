@@ -5,7 +5,7 @@ description: "Amazing blogs related to biology and medicine."
 logo: 'assets/images/logo50x50.ico.jpg'
 favicon: 'assets/images/logo50x50.ico.jpg'
 baseurl: ""
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-139451483-1'
 disqus: 'texoviva'
 mailchimp-list: "https://gmail.us3.list-manage.com/subscribe/post?u=a74792ecc9c15b6bfc75264e5&amp;id=3feabcc719"
 include: ["_pages"]
