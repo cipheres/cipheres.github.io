@@ -251,9 +251,11 @@ ga('send', 'pageview');
       }
     });
   </script>
-<script defer type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=AM_CHTML"></script>
-
-<script defer src="{{ site.baseurl }}/assets/js/background3d.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $.getScript("https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=AM_CHTML");
+    $.getScript("{{ site.baseurl }}/assets/js/background3d.min.js");
+});
+</script>
 </body>
 </html>
