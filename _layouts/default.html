@@ -246,6 +246,11 @@ ga('send', 'pageview');
 {% if page.layout == 'post' %}
 <script defer id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
-
+<script src="{{ site.baseurl }}/assets/js/sw.js"></script>
+<script>
+    navigator.serviceWorker && navigator.serviceWorker.register('./sw.js').then(function(registration) {
+  console.log('Excellent, registered with scope: ', registration.scope);
+});
+</script>
 </body>
 </html>
