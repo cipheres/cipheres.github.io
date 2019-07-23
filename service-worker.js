@@ -43,7 +43,7 @@ if (workbox) {
     })
   );
   workbox.precaching.precacheAndRoute([
-    { url: 'https://www.texoviva.com/', revision: '1' },
+    { url: 'https://www.texoviva.com/', revision: '2' },
     { url: 'https://www.texoviva.com/balancing-a-chemical-equation/', revision: '1' },
     { url: 'https://www.texoviva.com/depression-the-disease-of-era/', revision: '1' },
     { url: 'https://www.texoviva.com/repairing-cardiac-damage/', revision: '1' },
