@@ -9,7 +9,7 @@ description: "Scientists have discovered ways to regenerate heart tissue. This i
 featured: false
 hidden: false
 ---
-# SMALL CHANGE
+
 Finally, after so many attempts, scientists have finally developed a gene therapy that can regenerate myocardium (heart tissue) after myocardial infarction (heart attack). Currently, this method is only available for mammals. This test was done on pigs. The same thing is possible for humans.
 
 ![Build up of heart attack](/assets/images/heartattack.jpg "Heart vessel blocked Image")
