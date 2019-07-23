@@ -4,6 +4,7 @@ title:  "Repairing Cardiac Damage"
 author: pawan
 categories: [ Medicine, Research ]
 tags: [cardiac, myocardial infarction]
+image: assets/images/heart-image.jpg
 description: "Scientists have discovered ways to regenerate heart tissue. This is still in the early phases but has the potential to help millions of people who suffer from heart disease. This research was conducted on pigs but the same could be applied to humans."
 featured: false
 hidden: false
