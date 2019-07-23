@@ -67,7 +67,7 @@ ga('send', 'pageview');
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
 		<link href="{{ site.baseurl }}/assets/css/RighteousCMerriweather.css" rel="stylesheet">
-		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/all.css">
+		<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/all.min.css">
 	</noscript>
 
 
@@ -230,6 +230,7 @@ ga('send', 'pageview');
 <noscript><link rel="stylesheet" href="{{ site.baseurl }}/assets/themes/default/kekule.css"></noscript>
 <script defer src="{{ site.baseurl }}/assets/js/kekule.min.js"></script> -->
 
+{% if page.layout == 'post' %}
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({
       extensions: [
@@ -249,10 +250,11 @@ ga('send', 'pageview');
       }
     });
   </script>
+  <script defer src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=AM_CHTML"></script>
+  {% endif %}
 <script>
   $(document).ready(function() {
-    $.getScript("{{ site.baseurl }}/assets/js/MathJax.js?config=AM_CHTML");
-    $.getScript("{{ site.baseurl }}/assets/js/background3d.min.js");
+      $.getScript("{{ site.baseurl }}/assets/js/background3d.min.js");
 });
 </script>
 </body>
