@@ -6,7 +6,7 @@
   "display": "minimal-ui",
   "orientation": "portrait",
   "Scope": "/",
-  "start_url": "/",
+  "start_url": "https://www.texoviva.com/",
   "icons": [
     {
       "src": "assets/images/icons/icon-72x72.png",

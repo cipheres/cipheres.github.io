@@ -4,7 +4,7 @@ if (workbox) {
   console.log(`Yay! Workbox is loaded 🎉`);
   workbox.routing.registerRoute(
     /\.js$/,
-    new workbox.strategies.NetworkFirst()
+    new workbox.strategies.CacheFirst()
   );
 
   workbox.routing.registerRoute(
@@ -34,6 +34,16 @@ if (workbox) {
       ],
     })
   );
+  workbox.precaching.precacheAndRoute([
+    { url: 'https://www.texoviva.com/', revision: '1' },
+    { url: 'https://www.texoviva.com/balancing-a-chemical-equation/', revision: '1' },
+    { url: 'https://www.texoviva.com/depression-the-disease-of-era/', revision: '1' },
+    { url: 'https://www.texoviva.com/repairing-cardiac-damage/', revision: '1' },
+    { url: 'https://www.texoviva.com/how-bioluminescence-work/', revision: '1' },
+    { url: 'https://www.texoviva.com/organisms-that-light-up/', revision: '1' },
+    { url: 'https://www.texoviva.com/about', revision: '1' },
+    { url: 'https://www.texoviva.com/categories', revision: '1' },
+]);
 } else {
   console.log(`Boo! Workbox didn't load 😬`);
 }

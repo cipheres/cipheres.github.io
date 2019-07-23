@@ -10,6 +10,7 @@ disqus: 'texoviva'
 mailchimp-list: "https://gmail.us3.list-manage.com/subscribe/post?u=a74792ecc9c15b6bfc75264e5&amp;id=3feabcc719"
 include: ["_pages"]
 permalink: /:title/
+sw_post_cache_limit: 5
 
 # Authors
 authors:
