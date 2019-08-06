@@ -43,14 +43,15 @@ if (workbox) {
     })
   );
   workbox.precaching.precacheAndRoute([
-    { url: 'https://www.texoviva.com/', revision: '5' },
-    { url: 'https://www.texoviva.com/balancing-a-chemical-equation/', revision: '5' },
+    { url: 'https://www.texoviva.com/', revision: '6' },
+    { url: 'https://www.texoviva.com/balancing-a-chemical-equation/', revision: '6' },
     { url: 'https://www.texoviva.com/depression-the-disease-of-era/', revision: '5' },
     { url: 'https://www.texoviva.com/repairing-cardiac-damage/', revision: '5' },
     { url: 'https://www.texoviva.com/how-bioluminescence-work/', revision: '5' },
     { url: 'https://www.texoviva.com/organisms-that-light-up/', revision: '5' },
     { url: 'https://www.texoviva.com/about', revision: '5' },
     { url: 'https://www.texoviva.com/categories', revision: '5' },
+    { url: 'https://www.texoviva.com/balancing-of-chemical-equations-of-redox-reaction-using-oxidation-number/', revision: '6'}
 ]);
 } else {
   console.log(`Boo! Workbox didn't load 😬`);

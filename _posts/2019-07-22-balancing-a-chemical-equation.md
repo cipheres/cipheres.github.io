@@ -14,7 +14,7 @@ hidden: false
 Generally there are four methods of balancing the equation :-
 1. Hit and Trial methods / Trial and error method
 2. Partial Equation method
-3. Oxidation number method
+3. (Oxidation number method)[https://www.texoviva.com/balancing-of-chemical-equations-of-redox-reaction-using-oxidation-number/]
 4. Ion-electron method
 But we will discuss only first two methods here.
 Rest two will be discussed in later.
