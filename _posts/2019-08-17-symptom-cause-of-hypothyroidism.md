@@ -25,8 +25,7 @@ Iodine deficiency is the most common cause of hypothyroidism. This can be easily
 The most common way to ensure this is to take iodised salts. These are regular table salts which have iodine already added to them. So whenever you consume this salt you ensure proper intake of iodine.
 You can also complete your iodine deficiency using iodine tablets like this.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=texovivaweb-21&marketplace=amazon&region=IN&placement=B00V6Y66TI&asins=B00V6Y66TI&linkId=2bf3a34253596dfa9492f2e0271587b1&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-</iframe>
+
 
 ### Swelling of Thyroid
 Another most common reason for hypothyroidism is inflammation of the thyroid gland. Due to inflammation thyroid can’t produce enough hormones and this causes Hashimoto's Thyroiditis or autoimmune thyroiditis.
@@ -102,8 +101,6 @@ Vitamin B-12 can also be gained from food:-
 In various studies there scientist has found a direct link between thyroids disorders and intestine functioning. Probiotics contain live bacteria which can good, they help in killing the yeast present(harmful). This might not be effective in the treatment of hypothyroidism but it is good for general health.
 Yoghurts, raw cheese, kefir are some of the items which contain probiotics which are good for health.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=texovivaweb-21&marketplace=amazon&region=IN&placement=B0748HH6TL&asins=B0748HH6TL&linkId=a846845240973bbb80a0ddcf9da39621&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-</iframe>
 
 ### Gluten-Free Diet
 Adopting a gluten-free diet is more than a fad for people suffering from hypothyroidism. Many people suffering from thyroid disorder also suffer from celiac disease, which is a disorder of not able to handle gluten.
