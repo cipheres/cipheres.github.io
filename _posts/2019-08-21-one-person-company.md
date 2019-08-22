@@ -120,6 +120,7 @@ According to The Companies Act of 2013, companies after incorporation have to fo
 |Taxation | 30% of the profits and the applicable surcharge | Annual Tax and Audit are required|
 |Conversion | Cannot be converted into a company | Can be converted into a public/private |
 |Transferibility | To anyone | Only to the nominee|
+
 ## Difference between One Person Company and Public/Private Company
 
 |***Field***|***Private Company*** | ***One Person Company***|
