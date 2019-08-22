@@ -104,6 +104,7 @@ According to The Companies Act of 2013, companies after incorporation have to fo
 - One Person Company can not be converted to the company under Section-8.
 
 ## Difference between One Person Company and Sole Proprietorship
+
 |***Field***|***Sole Proprietorship*** | ***One Person Company***|
 |-----------|--------------------------|-------------------------|
 |Liability | "Unlimited Liability" means in case business occurs loss, not only company but also owner's assets are sold to settle the debt | The liability is only limited to the amount invested in the company. Only company assets are seized.|
@@ -112,6 +113,7 @@ According to The Companies Act of 2013, companies after incorporation have to fo
 |Compliance | Only required to get its account audited only once it crosses certain threshold | Like every private limited, accounts needs to be audited annually and has to file annual returns|
 
 ## Difference between One Person Company and Limited Liability Company
+
 |***Field***|***Limited Liability*** | ***One Person Company***|
 |-----------|--------------------------|-------------------------|
 |Liability | Limited to the amount contributed | Limited to the amount invested
