@@ -66,7 +66,7 @@ Now, you have two ways to get your company name. Either by making an application
 5. Consent of Nominee (INC-3)
 
 #### Step 4: Filling for MoA and AoA
-**MoA **: It is a memorandum of association. It is consist of fundamental conditions on which the company operates on.
+**MoA** : It is a memorandum of association. It is consist of fundamental conditions on which the company operates on.
 
 ##### Mandatory for form SPICe MoA :-
 1. Pre-fill SRN of INC-1 and system will give the approved name of the company
@@ -76,7 +76,7 @@ Now, you have two ways to get your company name. Either by making an application
 5. Fill the details of the subscriber
 6. Fill the details of the witness of subscriber
 
-**AoA **: It is articles of association. This defines the duty of the director and the kind of business undertaken by the company. It also contains information about rules and regulation governing the internal management of the company. It is a binding contract between the company and its members.
+**AoA** : It is articles of association. This defines the duty of the director and the kind of business undertaken by the company. It also contains information about rules and regulation governing the internal management of the company. It is a binding contract between the company and its members.
 ##### Mandatory for form SPICe AoA :-
 1. Pre-fill the SRN of RUN and system will generate an approved name.
 2. Select between the table between F to J.
@@ -104,28 +104,28 @@ According to The Companies Act of 2013, companies after incorporation have to fo
 - One Person Company can not be converted to the company under Section-8.
 
 ## Difference between One Person Company and Sole Proprietorship
-***Field***|***Sole Proprietorship*** | ***One Person Company***
------------|--------------------------|-------------------------
-Liability | "Unlimited Liability" means in case business occurs loss, not only company but also owner's assets are sold to settle the debt | The liability is only limited to the amount invested in the company. Only company assets are seized.
-Taxation | Income of the company is treated as the income of the person. The person is taxed on whole income, which is income from company and income from other sources | OPC is taxed according to the regulation of Income Tax Act for Private Limited Company
-Conversion | It can remain as it is, no matter what the income is | One Person Company has to be converted into private or public limited as soon as it crosses annual turnover of two crores for two consecutive year
-Compliance | Only required to get its account audited only once it crosses certain threshold | Like every private limited, accounts needs to be audited annually and has to file annual returns
+|***Field***|***Sole Proprietorship*** | ***One Person Company***|
+|-----------|--------------------------|-------------------------|
+|Liability | "Unlimited Liability" means in case business occurs loss, not only company but also owner's assets are sold to settle the debt | The liability is only limited to the amount invested in the company. Only company assets are seized.|
+|Taxation | Income of the company is treated as the income of the person. The person is taxed on whole income, which is income from company and income from other sources | OPC is taxed according to the regulation of Income Tax Act for Private Limited Company|
+|Conversion | It can remain as it is, no matter what the income is | One Person Company has to be converted into private or public limited as soon as it crosses annual turnover of two crores for two consecutive year|
+|Compliance | Only required to get its account audited only once it crosses certain threshold | Like every private limited, accounts needs to be audited annually and has to file annual returns|
 
 ## Difference between One Person Company and Limited Liability Company
-***Field***|***Limited Liability*** | ***One Person Company***
------------|--------------------------|-------------------------
-Liability | Limited to the amount contributed | Limited to the amount invested
-Taxation | 30% of the profits and the applicable surcharge | Annual Tax and Audit are required
-Conversion | Cannot be converted into a company | Can be converted into a public/private company
-Transferibility | To anyone | Only to the nominee
+|***Field***|***Limited Liability*** | ***One Person Company***|
+|-----------|--------------------------|-------------------------|
+|Liability | Limited to the amount contributed | Limited to the amount invested
+Taxation | 30% of the profits and the applicable surcharge | Annual Tax and Audit are required|
+|Conversion | Cannot be converted into a company | Can be converted into a public/private |
+|Transferibility | To anyone | Only to the nominee|
 ## Difference between One Person Company and Public/Private Company
 
-***Field***|***Private Company*** | ***One Person Company***
------------|--------------------------|-------------------------
-Liability | Limited to shareholder | Limited to investor
-Number of directors | 2 - 15 | 1-15
-Members to establish company | 2 - 200 | Only 1
-Foriegn Direct Investment (FDI) | Allowed | Not Allowed
+|***Field***|***Private Company*** | ***One Person Company***|
+|-----------|--------------------------|-------------------------|
+|Liability | Limited to shareholder | Limited to investor|
+|Number of directors | 2 - 15 | 1-15|
+|Members to establish company | 2 - 200 | Only 1|
+|Foriegn Direct Investment (FDI) | Allowed | Not Allowed|
 
 ## Famous examples of One Person Company
 
