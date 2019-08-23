@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "One Person Company"
+title:  "Oxidation Number and How to find them?"
 author: pawan
 categories: [ Chemistry ]
 tags: [chemistry, oxidation number, find oxidation number]

@@ -45,47 +45,103 @@ if (workbox) {
   workbox.precaching.precacheAndRoute([
     {
       "url": "404.html",
-      "revision": "016d529fc6c5fde3e260f494d18064f8"
+      "revision": "1b9eada38f425524876e00f51ee0987e"
     },
     {
       "url": "about.html",
-      "revision": "f03622592e6f90adcb0f3b120c161399"
+      "revision": "f2b8106ec3e6f514bb95305a77120101"
     },
     {
-      "url": "assets/images/favicon.ico",
-      "revision": "6e044e17667811120b235e90b612c42c"
+      "url": "assets/fonts/casper-icons.eot",
+      "revision": "dd96d59cfa813cb940aee7448669f302"
+    },
+    {
+      "url": "assets/fonts/casper-icons.svg",
+      "revision": "240264149a475160ef8115aeda3cbafd"
+    },
+    {
+      "url": "assets/fonts/casper-icons.ttf",
+      "revision": "3f94815a98a3e70e7884b856f51a8303"
+    },
+    {
+      "url": "assets/fonts/casper-icons.woff",
+      "revision": "74c17872f744013b1d4d3990e3eb0a83"
+    },
+    {
+      "url": "assets/webfonts/fa-brands-400.eot",
+      "revision": "03783c5172ee1ad128c576bf88fac168"
+    },
+    {
+      "url": "assets/webfonts/fa-brands-400.svg",
+      "revision": "073c2f3ce60eaf69cc2767ef3d989078"
+    },
+    {
+      "url": "assets/webfonts/fa-brands-400.ttf",
+      "revision": "ed2b8bf117160466ba6220a8f1da54a4"
+    },
+    {
+      "url": "assets/webfonts/fa-brands-400.woff",
+      "revision": "fe9d62e0d16a333a20e63c3e7595f82e"
+    },
+    {
+      "url": "assets/webfonts/fa-regular-400.eot",
+      "revision": "fc9c63c8224fb341fc933641cbdd12ef"
+    },
+    {
+      "url": "assets/webfonts/fa-regular-400.svg",
+      "revision": "8fdea4e89ac405d9f8db327adb331d8d"
+    },
+    {
+      "url": "assets/webfonts/fa-regular-400.ttf",
+      "revision": "59215032a4397507b80e5625dc323de3"
+    },
+    {
+      "url": "assets/webfonts/fa-regular-400.woff",
+      "revision": "e5770f9863963fb576942e25214a226d"
+    },
+    {
+      "url": "assets/webfonts/fa-solid-900.eot",
+      "revision": "ef3df98419d143d9617fe163bf4edc0b"
+    },
+    {
+      "url": "assets/webfonts/fa-solid-900.svg",
+      "revision": "b557f56e367e59344ca95f9d1fb44352"
+    },
+    {
+      "url": "assets/webfonts/fa-solid-900.ttf",
+      "revision": "acf50f59802f20d8b45220eaae532a1c"
+    },
+    {
+      "url": "assets/webfonts/fa-solid-900.woff",
+      "revision": "4bced7c4c0d61d4f988629bb8ae80b8b"
     },
     {
       "url": "balancing-a-chemical-equation/index.html",
-      "revision": "1620a616130894139c57103b037653b1"
+      "revision": "acf74b57e455552f2d5b14122ddad20c"
     },
     {
       "url": "balancing-of-chemical-equations-of-redox-reaction-using-oxidation-number/index.html",
-      "revision": "f4d3ef78eecc1fc60dfbedbdfab8fe63"
+      "revision": "6d56396107725d8602a2637ddddec43f"
     },
     {
       "url": "categories.html",
-      "revision": "2d97a6d9bc93ef397b0c53a38eb7c0a8"
+      "revision": "b9bb000da3c202eb5f63c872eb2a074d"
     },
     {
       "url": "comment_policy.html",
-      "revision": "6e3787a1758548f660254419e2c920b8"
+      "revision": "88b38bbbbecfee4ec9031794121d8bd5"
     },
     {
       "url": "depression-the-disease-of-era/index.html",
-      "revision": "947c91345f2d36d7e8b83d4a56e39b4b"
-    },
-    {
-      "url": "favicon.ico",
-      "revision": "c66a0fcd6276b57ef6ff576beba26027"
+      "revision": "a9dc6b3728b3e77cdb5267abab507731"
     },
     {
       "url": "how-bioluminescence-work/index.html",
-      "revision": "41623c3e3c2d05e803e6b4c675191413"
+      "revision": "9e50ccd1a235250b5275542ac657c868"
     },
     {
       "url": "index.html",
-      "revision": "bfee630760bb9f62524754a98d71ebc9"
+      "revision": "1dd0eed9a6cf756ba448a43c006ac714"
     },
     {
       "url": "mywot3ade9a91aa2f31eb5238.html",
@@ -93,39 +149,39 @@ if (workbox) {
     },
     {
       "url": "one-person-company/index.html",
-      "revision": "da35b091fb086f5658929a901e3b7936"
+      "revision": "8ca7e1dde6c9967a08c7bb71b892f9dc"
     },
     {
       "url": "organisms-that-light-up/index.html",
-      "revision": "f0391a65917769a3c884984cd7af8a59"
+      "revision": "6159594db4adf46229645572fb41723b"
     },
     {
       "url": "oxidation-number/index.html",
-      "revision": "e53026e1470b2d06707be0284a4d3444"
+      "revision": "f5e87cd61058879a000fb48c0578ca8d"
     },
     {
       "url": "page2/index.html",
-      "revision": "12296c1e376c6eb8d0c8ed4532b93dd7"
+      "revision": "8b3c92d07c4cdd2d7f8d6a1fc2e632f4"
     },
     {
       "url": "privacy_policy.html",
-      "revision": "cae1437bfbfbc8095430cd2c510ce0fe"
+      "revision": "cbd2502f1b6f28400f87261eb45b4190"
     },
     {
       "url": "repairing-cardiac-damage/index.html",
-      "revision": "6f34eb6593e2f53ca16973eefdbc1cf1"
+      "revision": "1a0ac3c6a61b78099e36ea1889b60d10"
     },
     {
       "url": "symptom-cause-of-hypothyroidism/index.html",
-      "revision": "51c3ad2ea923f7adc5749efc36e4e2cb"
+      "revision": "5d180a4e4fc3351d8a24be26f5e2bc60"
     },
     {
       "url": "tags.html",
-      "revision": "2f84a4c88d3725d64742d714d7db03fe"
+      "revision": "6deafb003cf51b5ca8d123c843b59803"
     },
     {
       "url": "tos.html",
-      "revision": "29b8983c776eaddcf808af99bf100342"
+      "revision": "4f5aeb0201c070d1d4c830111ac4adc3"
     }
   ]);
 } else {
