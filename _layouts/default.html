@@ -49,7 +49,9 @@
         </script>
 </head>
 
-{% if jekyll.environment == 'production' %}
+{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
+<body class="{{layout}}">
+    {% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -67,14 +69,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KFHDJZZ');</script>
 <!-- End Google Tag Manager -->
-{% endif %}
-
-{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
-<body class="{{layout}}">
-    <!-- Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFHDJZZ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+{% endif %}
     <div id="canvasb"></div>
 	<!-- defer loading of font and font awesome -->
 	<noscript id="deferred-styles">
