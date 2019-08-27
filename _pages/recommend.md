@@ -12,12 +12,15 @@ This is the important assets for any person as per me. Without a my pen I fell u
 <a href="https://amzn.to/2ZvV6NU" rel="nofollow">
     <img src="assets/images/cello-gripper-pen.jpg" alt="Cello Gripper Pen">
 </a>
+
 <a href="https://amzn.to/2ZvV6NU" rel="nofollow"><button>Buy / Check Price</button></a>
 
 
 ### Biology Book
 I love this book, ofcourse after NCERT. It summarize the whole NCERT in one book. Awesome book to study for CBSE Boards and NEET exams. This book is helped me to revise but this book is no substitute for NCERT.
+
 <a href="https://amzn.to/2ZvV6NU" rel="nofollow">
     <img src="assets/images/biology-at-fingertips-2019.jpg" alt="Biology At Fingertips 2019">
 </a>
-<a href="https://amzn.to/340FDch" rel="nofollow"><button>Buy / Check Price<button></a>
+
+<a href="https://amzn.to/340FDch" rel="nofollow"><button>Buy / Check Price</button></a>
