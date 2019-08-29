@@ -51,7 +51,7 @@ Let's talk about H.C. Verma. It is more geared toward understanding rather than 
 
 #### Part 1
 <a href="https://amzn.to/2L3fMJ4" rel="nofollow">
-    <img height=400 width=500 src="assets/images/hc-verma-class11-2019.jpg" alt="S.L. Arora Physics Class 11">
+![H.C. Verma Part 1](assets/images/hc-verma-class11-2019.jpg "H.C. Verma Part 1")
 </a>
 
 <a href="https://amzn.to/2L3fMJ4" rel="nofollow"><button>Buy / Check Price</button></a>
@@ -59,7 +59,7 @@ Let's talk about H.C. Verma. It is more geared toward understanding rather than 
 
 #### Part 2
 <a href="https://amzn.to/2NFtpzY" rel="nofollow">
-    <img height=400 width=500 src="assets/images/hc-verma-class12-2019.jpg" alt="S.L. Arora Physics Class 12">
+![H.C. Verma Part 2](assets/images/hc-verma-class12-2019.jpg "H.C. Verma Part 2")
 </a>
 
 <a href="https://amzn.to/2NFtpzY" rel="nofollow"><button>Buy / Check Price</button></a>
