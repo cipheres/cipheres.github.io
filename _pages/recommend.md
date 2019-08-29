@@ -30,7 +30,7 @@ When we try to find the reference book for the Physics S.L. Arora and H.C. Verma
 
 #### Class 11
 <a href="https://amzn.to/2L3fMJ4" rel="nofollow">
-    <img height=400 width=500  src="assets/images/sl-arora-class11-2019.jpg" alt="S.L. Arora Physics Class 11">
+![S.L. Arora Physics Class 11](assets/images/sl-arora-class11-2019.jpg "S.L. Arora Physics Class 11")
 </a>
 
 <a href="https://amzn.to/2L3fMJ4" rel="nofollow"><button>Buy / Check Price</button></a>
@@ -38,7 +38,7 @@ When we try to find the reference book for the Physics S.L. Arora and H.C. Verma
 
 #### Class 12
 <a href="https://amzn.to/2NFtpzY" rel="nofollow">
-    <img height=400 width=500  src="assets/images/sl-arora-class12-2019.jpg" alt="S.L. Arora Physics Class 12">
+![S.L. Arora Physics Class 12](assets/images/sl-arora-class12-2019.jpg "S.L. Arora Physics Class 12")
 </a>
 
 <a href="https://amzn.to/2NFtpzY" rel="nofollow"><button>Buy / Check Price</button></a>
